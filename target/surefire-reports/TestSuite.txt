@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.603 s <<< FAILURE! - in TestSuite
+testGetApellido(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected [] but found [null]
+	at com.portfolio.andres.Entity.PersonaNGTest.testGetApellido(PersonaNGTest.java:71)
+
+testGetId(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.portfolio.andres.Entity.PersonaNGTest.testGetId(PersonaNGTest.java:45)
+
+testGetImg(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected [] but found [null]
+	at com.portfolio.andres.Entity.PersonaNGTest.testGetImg(PersonaNGTest.java:85)
+
+testGetNombre(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected [] but found [null]
+	at com.portfolio.andres.Entity.PersonaNGTest.testGetNombre(PersonaNGTest.java:57)
+
+testSetApellido(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.portfolio.andres.Entity.PersonaNGTest.testSetApellido(PersonaNGTest.java:126)
+
+testSetId(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.portfolio.andres.Entity.PersonaNGTest.testSetId(PersonaNGTest.java:100)
+
+testSetImg(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.portfolio.andres.Entity.PersonaNGTest.testSetImg(PersonaNGTest.java:139)
+
+testSetNombre(com.portfolio.andres.Entity.PersonaNGTest)  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.portfolio.andres.Entity.PersonaNGTest.testSetNombre(PersonaNGTest.java:113)
+
