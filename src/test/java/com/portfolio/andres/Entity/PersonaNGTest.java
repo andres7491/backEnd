@@ -1,15 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/EmptyTestNGTest.java to edit this template
- */
+
+
+/**
+
 package com.portfolio.andres.Entity;
 
 import static org.testng.Assert.*;
 
-/**
- *
- * @author andre
- */
 public class PersonaNGTest {
     
     public PersonaNGTest() {
@@ -31,9 +27,7 @@ public class PersonaNGTest {
     public void tearDownMethod() throws Exception {
     }
 
-    /**
-     * Test of getId method, of class Persona.
-     */
+   
     @org.testng.annotations.Test
     public void testGetId() {
         System.out.println("getId");
@@ -45,9 +39,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of getNombre method, of class Persona.
-     */
+   
     @org.testng.annotations.Test
     public void testGetNombre() {
         System.out.println("getNombre");
@@ -59,9 +51,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of getApellido method, of class Persona.
-     */
+    
     @org.testng.annotations.Test
     public void testGetApellido() {
         System.out.println("getApellido");
@@ -73,9 +63,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of getImg method, of class Persona.
-     */
+    
     @org.testng.annotations.Test
     public void testGetImg() {
         System.out.println("getImg");
@@ -87,9 +75,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setId method, of class Persona.
-     */
+   
     @org.testng.annotations.Test
     public void testSetId() {
         System.out.println("setId");
@@ -100,9 +86,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setNombre method, of class Persona.
-     */
+  
     @org.testng.annotations.Test
     public void testSetNombre() {
         System.out.println("setNombre");
@@ -113,9 +97,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setApellido method, of class Persona.
-     */
+    
     @org.testng.annotations.Test
     public void testSetApellido() {
         System.out.println("setApellido");
@@ -126,9 +108,7 @@ public class PersonaNGTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setImg method, of class Persona.
-     */
+    
     @org.testng.annotations.Test
     public void testSetImg() {
         System.out.println("setImg");
@@ -140,3 +120,5 @@ public class PersonaNGTest {
     }
     
 }
+
+****/
