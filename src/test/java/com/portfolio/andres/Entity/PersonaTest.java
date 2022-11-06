@@ -1,7 +1,7 @@
+
+
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
- */
+
 package com.portfolio.andres.Entity;
 
 import org.junit.jupiter.api.AfterEach;
@@ -11,10 +11,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- *
- * @author andre
- */
+
 public class PersonaTest {
     
     public PersonaTest() {
@@ -36,9 +33,6 @@ public class PersonaTest {
     public void tearDown() {
     }
 
-    /**
-     * Test of getId method, of class Persona.
-     */
     @Test
     public void testGetId() {
         System.out.println("getId");
@@ -50,9 +44,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of getNombre method, of class Persona.
-     */
+   
     @Test
     public void testGetNombre() {
         System.out.println("getNombre");
@@ -64,9 +56,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of getApellido method, of class Persona.
-     */
+  
     @Test
     public void testGetApellido() {
         System.out.println("getApellido");
@@ -78,9 +68,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of getImg method, of class Persona.
-     */
+   
     @Test
     public void testGetImg() {
         System.out.println("getImg");
@@ -92,9 +80,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setId method, of class Persona.
-     */
+   
     @Test
     public void testSetId() {
         System.out.println("setId");
@@ -105,9 +91,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setNombre method, of class Persona.
-     */
+    
     @Test
     public void testSetNombre() {
         System.out.println("setNombre");
@@ -118,9 +102,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setApellido method, of class Persona.
-     */
+  
     @Test
     public void testSetApellido() {
         System.out.println("setApellido");
@@ -131,9 +113,7 @@ public class PersonaTest {
         fail("The test case is a prototype.");
     }
 
-    /**
-     * Test of setImg method, of class Persona.
-     */
+    
     @Test
     public void testSetImg() {
         System.out.println("setImg");
@@ -145,3 +125,5 @@ public class PersonaTest {
     }
     
 }
+
+*/

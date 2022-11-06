@@ -9,13 +9,13 @@ C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Rep
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\jwt\JwtProvider.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\Repository\iRolRepository.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\Entity\UsuarioPrincipal.java
-C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Interface\IPersonaService.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Controller\CEducacion.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\Controller\AuthController.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\Repository\iUsuarioRepository.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\AndresApplication.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\Dto\NuevoUsuario.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Dto\dtoExperiencia.java
+C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Dto\dtoPersona.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Repository\IPersonaRepository.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Security\Service\UsuarioService.java
 C:\Users\andre\Desktop\yoProgramo\backEnd\src\main\java\com\portfolio\andres\Controller\CExperiencia.java

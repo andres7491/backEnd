@@ -3,6 +3,7 @@ com\portfolio\andres\Entity\Educacion.class
 com\portfolio\andres\Security\Dto\LoginUsuario.class
 com\portfolio\andres\Security\jwt\JwtEntryPoint.class
 com\portfolio\andres\Dto\dtoEducacion.class
+com\portfolio\andres\Dto\dtoPersona.class
 com\portfolio\andres\Service\ImpPersonaService.class
 com\portfolio\andres\Security\jwt\JwtProvider.class
 com\portfolio\andres\Security\Service\UserDetailsImpl.class
@@ -29,7 +30,6 @@ com\portfolio\andres\Repository\REducacion.class
 com\portfolio\andres\Security\Service\UsuarioService.class
 com\portfolio\andres\Repository\Rhys.class
 com\portfolio\andres\Controller\CHys.class
-com\portfolio\andres\Interface\IPersonaService.class
 com\portfolio\andres\Security\Enums\RolNombre.class
 com\portfolio\andres\Service\Shys.class
 com\portfolio\andres\Security\Dto\NuevoUsuario.class
