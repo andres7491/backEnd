@@ -26,8 +26,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 //@CrossOrigin(origins = {"https://frontendandres.web.app","http://localhost:4200"})
 
-@CrossOrigin(origins = "http://localhost:4200")
-//@CrossOrigin(origins = "https://frontendandres.web.app")
+//@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://frontendandres.web.app")
 
 
 public class CExperiencia {
